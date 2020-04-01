@@ -1,0 +1,1 @@
+{"ast":null,"code":"export default ((req, res) => {\n  res.status(200).json({\n    name: '双鱼',\n    age: 100,\n    desc: '写后端的接口，让后端无接口可写'\n  });\n});","map":null,"metadata":{},"sourceType":"module"}
